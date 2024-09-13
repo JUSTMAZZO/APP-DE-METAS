@@ -55,3 +55,7 @@ Operador de concatenação
 - [X] criar, passar argumento
 - [X] excutar
 - [X] arrow function / named function
+
+## Estrutura de repetiçao 
+
+- [x] while
