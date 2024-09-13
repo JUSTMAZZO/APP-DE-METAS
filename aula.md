@@ -35,8 +35,9 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor
-- [x] Operador de concatenação 
+- [x] Operadores de atribuição de valor: = ;
+- [x] Operador de concatenação: + ;
+- [x] Opoeradores de comparação: == , != , <= , => , < , >; 
 
 ## Estruturas de dados:
 
@@ -59,6 +60,7 @@ Apresentar os dados
 # Estrutura de repetiçao 
 
 - [x] while
+- [x] if/else
 
 # Condicionais
 
