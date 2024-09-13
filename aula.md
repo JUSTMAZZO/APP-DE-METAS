@@ -35,8 +35,8 @@ Apresentar os dados
 
 ## Operadores
 
-Operadores de atribuição de valor
-Operador de concatenação 
+- [x] Operadores de atribuição de valor
+- [x] Operador de concatenação 
 
 ## Estruturas de dados:
 
@@ -56,6 +56,10 @@ Operador de concatenação
 - [X] excutar
 - [X] arrow function / named function
 
-## Estrutura de repetiçao 
+# Estrutura de repetiçao 
 
 - [x] while
+
+# Condicionais
+
+- [] switch

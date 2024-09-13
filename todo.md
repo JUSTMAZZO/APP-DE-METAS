@@ -1,4 +1,4 @@
-- Criar mertas
+- Criar metas
 - Listas metas
     - Metas realizadas
     - Metas abertas
