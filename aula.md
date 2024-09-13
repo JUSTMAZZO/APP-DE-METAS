@@ -35,7 +35,7 @@ Apresentar os dados
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor: = ;
+- [x] Operadores de atribuição de valor: =
 - [x] Operador de concatenação: + ;
 - [x] Opoeradores de comparação: == , != , <= , => , < , >; 
 
